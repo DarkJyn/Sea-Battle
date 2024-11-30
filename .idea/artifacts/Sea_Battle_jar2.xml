@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sea-Battle:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sea_Battle_jar2</output-path>
+    <root id="archive" name="Sea-Battle.jar">
+      <element id="module-output" name="Sea-Battle" />
+    </root>
+  </artifact>
+</component>
